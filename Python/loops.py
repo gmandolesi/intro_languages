@@ -1,4 +1,4 @@
-## Function print.py
+## Function loops.py
 # Objectives:
 #   1. Loops (for, while, range)
 #

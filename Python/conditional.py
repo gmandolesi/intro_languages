@@ -1,4 +1,4 @@
-## Function print.py
+## Function conditional.py
 # Objectives:
 #   1. Conditional programming (if, elif)
 #   2. Logical operations (and, or, not)
